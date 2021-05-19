@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>false</default>
+        <grant_type>authorization_code</grant_type>
+        <jwt_provider/>
+        <name>profile-for-e6125e882f103010fe545d8b2799b6f5</name>
+        <oauth_entity display_value="Google SSO">e6125e882f103010fe545d8b2799b6f5</oauth_entity>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-18 20:25:57</sys_created_on>
+        <sys_id>761292c82f103010fe545d8b2799b682</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>profile-for-e6125e882f103010fe545d8b2799b6f5</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>oauth_entity_profile_761292c82f103010fe545d8b2799b682</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-18 20:25:57</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>

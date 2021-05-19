@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oidc_provider_configuration">
+    <oidc_provider_configuration action="INSERT_OR_UPDATE">
+        <enable_jti_verification>false</enable_jti_verification>
+        <name>Google SSO</name>
+        <oidc_config_cache_life_span>120</oidc_config_cache_life_span>
+        <oidc_url>https://accounts.google.com/.well-known/openid-configuration</oidc_url>
+        <sys_class_name>oidc_provider_configuration</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-18 20:25:57</sys_created_on>
+        <sys_id>2a125e882f103010fe545d8b2799b6f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google SSO</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>oidc_provider_configuration_2a125e882f103010fe545d8b2799b6f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-18 20:25:57</sys_updated_on>
+        <user_claim>email</user_claim>
+        <user_field>email</user_field>
+    </oidc_provider_configuration>
+</record_update>
